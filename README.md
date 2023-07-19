@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 <div id="header" align="center">
-<iframe src="https://giphy.com/embed/jAe22Ec5iICCk" width="480" height="358" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-tired-jAe22Ec5iICCk"></a></p>
+<img src="https://giphy.com/gifs/computer-tired-jAe22Ec5iICCk" width="100"/>
 </div>
 <!--
 **Angelarajchadha/Angelarajchadha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

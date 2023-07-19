@@ -1,8 +1,11 @@
 
 ### Hi there 👋
 <div id="header" align="center">
-<img src="https://giphy.com/gifs/computer-tired-jAe22Ec5iICCk" width="100"/>
+![image](https://github.com/Angelarajchadha/Angelarajchadha/assets/75231862/dd58183d-5d78-48ba-96c4-917c0d5920e5)
 </div>
+
+
+
 <!--
 **Angelarajchadha/Angelarajchadha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

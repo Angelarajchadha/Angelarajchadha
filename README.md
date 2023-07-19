@@ -31,13 +31,12 @@ Hardworking and Enthusiastic Student Worker ready to offer natural abilities and
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="45" height="45"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C++" width="45" height="45"/>&nbsp;
 </div>
- <img src="https://media.giphy.com/media/jAe22Ec5iICCk/giphy.gif" width="400" height="300" align="right"/>
+
  
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Angelarajchadha&theme=gruvbox-light&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angelarajchadha&theme=gruvbox-ligh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ <img src="https://media.giphy.com/media/jAe22Ec5iICCk/giphy.gif" width="400" height="300" align="right"/>
 
 
 
